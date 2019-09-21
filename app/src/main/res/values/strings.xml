@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Randomizer</string>
+    <string name="generate">Generate</string>
+    <string name="textview">-</string>
+    <string name="minumumHint">Minimum</string>
+    <string name="maximumHint">Maximum</string>
 </resources>
